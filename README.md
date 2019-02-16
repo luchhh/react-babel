@@ -1,4 +1,4 @@
-# react-exnode
+# react-babel
 Un simple ejercicio de ReactJS utilizando NodeJS y Babel
 
 ## Pre requisitos
